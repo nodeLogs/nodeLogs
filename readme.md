@@ -1,7 +1,7 @@
 ![header](https://raw.githubusercontent.com/nodeLogs/nodeLogs/main/header.png)
 
 **ʟᴀɴɢᴜᴀɢᴇꜱ:**
-JavaScript ███░░
-Bash
-Ruby
-Python
+* JavaScript ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜
+* Bash
+* Ruby
+* Python
