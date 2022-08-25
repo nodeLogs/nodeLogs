@@ -1,4 +1,5 @@
-![header](https://raw.githubusercontent.com/nodeLogs/nodeLogs/main/header.png)
+### ʜᴇʟʟᴏ , ɪ'ᴍ ᴀʀᴛᴇᴍ
+
 ᴛɪᴍᴇᴢᴏɴᴇ: ᴍᴏꜱᴄᴏᴡ ᴜᴛᴄ+3
 
 **ᴍʏ ꜱᴋɪʟʟꜱ:**  
