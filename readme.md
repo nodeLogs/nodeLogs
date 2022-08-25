@@ -1,8 +1,9 @@
 ![header](https://raw.githubusercontent.com/nodeLogs/nodeLogs/main/header.png)
-**ᴛɪᴍᴇᴢᴏɴᴇ: ᴍᴏꜱᴄᴏᴡ ᴜᴛᴄ+3**
+ᴛɪᴍᴇᴢᴏɴᴇ: ᴍᴏꜱᴄᴏᴡ ᴜᴛᴄ+3
 
-**ʟᴀɴɢᴜᴀɢᴇꜱ:**               fdsafdsafda
-ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ 
+**ᴍʏ ꜱᴋɪʟʟꜱ:**  
+ʜᴛᴍʟ/ᴄꜱꜱ/ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ
 ʙᴀꜱʜ       
 ʀᴜʙy         
 ᴘʏᴛʜᴏɴ    
+
