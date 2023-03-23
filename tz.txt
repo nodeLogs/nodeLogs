@@ -1,0 +1,121 @@
+Title: Cryptonix - Crypto payment system | Accepting crypto as payment
+Description: Cryptonix payment system allows merchants to accept payments in any cryptocurrency with a cryptocurrency payment gateway!
+
+Requirements:
+1. Text uniqueness 85%+ , 5,000 characters with no spaces
+2. Language: English
+3. Key phrases should be inserted as naturally as possible and 
+evenly distributed throughout the text.
+5. The text should be in 3 persons.
+7. Use lists (3-5) evenly throughout the text in 2000-3000 
+characters.
+8. Mandatory text structure, as follows (can be supplemented with 
+H3-H4 subheadings):
+
+H1: How Cryptonix cryptocurrency payment gateway works
+H2: Cryptonix trading tools for your business:
+•	Shopping cart plugins
+•	Payment Buttons
+•	API
+•	Mobile App
+H2: Cryptocurrency Payment Gateway: What It Is, How It Works, Fees
+H2: What Is a Cryptocurrency Payment Gateway?
+
+Benefits of using Cryptonix:
+•	Cryptocurrency is accepted as payment in many stores.
+•	Cryptocurrency payment gateways are intermediaries between sellers and buyers.
+•	Payment security
+•	Cryptonix supports over 70 cryptocurrencies
+•	Payment gateways allow you to accept cryptocurrency as payment and receive fiat currency in return.
+•	Accept cryptocurrency payments anywhere
+•	Cryptonix supports all cryptocurrency wallets
+•	Easy to integrate payment solutions
+•	24/7 partner support
+•	No KYC or paperwork required
+
+H2: What is KYC?
+H2: Why would a user want a cryptopayment gateway rather than a KYC gateway?
+•	Anonymity
+•	Access to a wider list of cryptocurrencies
+•	Speed of cryptocurrency payments
+H2: Conclusion about cryptocurrency gateways
+FAQ
+Do you have an affiliate program?
+What is the best payment method for cryptocurrency?
+How do I pay someone with cryptocurrency?
+What are the 4 types of crypto currency?
+Does cryptocurrency payment require a bank?
+What are crypto payments?
+How is crypto used for payment?
+How do I start a crypto payment?
+How do I accept payments on crypto?
+How do I set up payments on crypto?
+Is crypto a good payment method?
+Which payment gateway is best for cryptocurrency?
+How do I create a crypto payment gateway?
+How does a crypto payment gateway work?
+How can a business accept crypto payments?
+Can you send crypto to a business account?
+Do any businesses accept crypto?
+Is getting paid in crypto taxable?
+What is a crypto merchant?
+
+The main key phrases in the text, the maximum 
+number, taking into account the headings h1, h2:
+
+crypto payment platform 1
+crypto payment system 1
+crypto payment processor for business 1
+accept crypto as payment 1
+crypto payment solution 1
+crypto currency payment gateway 1
+accepting crypto as payment 1
+crypto payment processing 1
+crypto payment gateway solution 1
+crypto payment processors 1
+fiat to crypto payment gateway 1
+crypto payment gateway no kyc provider 1
+
+Keyword	Repeats
+Cryptonix	16
+crypto	32
+payment	25
+gateway	21
+wallet	14
+kyc	12
+coinspaid	10
+business	9
+website	8
+exchange	8
+cryptocurrency	8
+information	7
+bitcoin	7
+system	7
+fiat	7
+digital	7
+transactions	6
+services	6
+security	6
+cryptocurrencies	6
+app	6
+payments	6
+hot	5
+otc	5
+currencies	5
+case	5
+receive	5
+service	5
+token	5
+cpd	5
+program	5
+solutions	5
+republic	5
+saas	4
+ethereum	4
+money	4
+user	4
+provider	4
+pay	4
+businesses	4
+
+
